@@ -19,6 +19,21 @@ AVO-AIR dataset (~7,04Gb) consists of 986 high resolution aerial images, capturi
 AVO-AIR dataset can be downloaded [here](https://www.genome.gov/).
 # Data Acquisition
 # Visualizations
+
+### images from the data :
+
+![Screenshot](database.png)
+
+### Annotation 1 :
+
+![Screenshot](VGG_labels.png)
+
+### Annotation 2:
+
+![Screenshot](tiff_labels.png)
+
+
+
 # Files Description
 
       - 'Database Avo-AirDB' folder: contains the 4864x3648 RGB  aerial images. Total images are 986, 
@@ -37,5 +52,22 @@ AVO-AIR dataset can be downloaded [here](https://www.genome.gov/).
 Image filenames are defined with an ID number, such as:
  
  DJI_0002.JPG
-# Citing the dataset
  
+# Citing the dataset
+
+If you use this dataset, please cite the following publication:
+
+_K. El Amraoui, M. Lghoul, A. Ezzaki, L.Masmoudi, M.hadri, H.Elbelrhiti and A.Abaz, (2022). Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification._ 
+
+
+            @article{krestenitis2022cofly,
+            title={Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification.},
+            author={Khalid El Amraoui, Moaataz Lghoul , Ayoub Ezzaki , Lhoussaine Masmoud , Majid hadri , Hicham Elbelrhiti and Aziz Abaz c },
+            journal={},
+            volume={},
+            pages={},
+            year={2022},
+            issn = {},
+            doi = {},
+            publisher={Elsevier}
+            }

@@ -60,7 +60,7 @@ If you use this dataset, please cite the following publication:
 _K. El Amraoui, M. Lghoul, A. Ezzaki, L.Masmoudi, M.hadri, H.Elbelrhiti and A.Abaz, (2022). Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification._ 
 
 
-            @article{krestenitis2022cofly,
+            @article{elamraoui2022Avo,
             title={Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification.},
             author={Khalid El Amraoui, Moaataz Lghoul , Ayoub Ezzaki , Lhoussaine Masmoud , Majid hadri , Hicham Elbelrhiti and Aziz Abaz c },
             journal={},

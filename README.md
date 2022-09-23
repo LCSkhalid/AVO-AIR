@@ -26,12 +26,12 @@ AVO-AIR dataset can be downloaded [here](https://www.genome.gov/).
 
 ### Annotation 1 :
 
-![Screenshot](VGG_labels.png)
+![Screenshot](tiff_labels.png)
 
 ### Annotation 2:
 
-![Screenshot](tiff_labels.png)
 
+![Screenshot](VGG_labels.png)
 
 
 # Files Description
@@ -40,10 +40,10 @@ AVO-AIR dataset can be downloaded [here](https://www.genome.gov/).
       56 are annotated in .tiff format ,'annotation1' folder,  and 89 are annotated in .json ,'annotation2' folder.
 
       - 'annotation1' folder: contains two folders 'images' and 'masks'
-            - 'images': contain 56 RGB images
-            - 'masks' : contain the coresponding masks in .tiff format
+            - 'images' folder: contain 56 RGB images
+            - 'masks' folder : contain the coresponding masks in .tiff format
     
-      - 'annotation2' folder : contains two folders 'images' and 'masks'
+      - 'annotation2' folder : contains two folders 'images' and 'labels'
 
             - 'images' folder: contain 89 RGB images
     

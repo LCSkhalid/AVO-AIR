@@ -18,6 +18,8 @@ AVO-AIR dataset (~8.08Gb) consists of 986 high resolution aerial images, capturi
 # Download
 AVO-AIR dataset can be downloaded [here](https://www.genome.gov/).
 # Data Acquisition
+
+This dataset was created using an RGB camera (FC6310 Camera with CMOS sensor) mounted on a DJI Phantom 4 Pro UAV. It was collected using the described UAV over a 113 Ha farm of Avocado fruit trees, the camera angle was adjusted to 90° vertically with the field. The speed and flight altitude were 9 m/s and 90 meters respectively,aiming to provide a clear view of the avocado trees. A 75% Longitudinal overlap was applied.
 # Visualizations
 
 ### images from the data :

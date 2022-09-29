@@ -38,7 +38,7 @@ This dataset was created using an RGB camera (FC6310 Camera with CMOS sensor) mo
 
 # Files Description
 
-      - 'Database Avo-AirDB' folder: contains the 4864x3648 RGB  aerial images. Total images are 986, 
+      - 'Avo-AirDB' folder: contains the 4864x3648 RGB  aerial images. Total images are 986, 
       56 are annotated in .tiff format ,'annotation1' folder,  and 89 are annotated in .json ,'annotation2' folder.
 
       - 'annotation1' folder: contains two folders 'images' and 'masks'

@@ -1,5 +1,5 @@
 # Dataset Description
-AVO-AIR dataset (~8.08Gb) consists of 986 high resolution aerial images, capturing a wide area of an avocado field located in ALLAL TAZI region of MOROCCO, gps coordonate 34°34'55.4"N 6°21'60.0"W , as well as two type of annotations of 89 images used to train two models for trees size classification, in a .tiff file for the first model and .json file for the second model. The annotation process of the trees instances was done by the members of our laboratory, using online annotation tools.
+AVO-AIR dataset (~8.08Gb) consists of 984 high resolution aerial images, capturing a wide area of an avocado field located in ALLAL TAZI region of MOROCCO, gps coordonate 34°34'55.4"N 6°21'60.0"W , as well as two type of annotations of 89 images used to train two models for trees size classification, in a .tiff file for the first model and .json file for the second model. The annotation process of the trees instances was done by the members of our laboratory, using online annotation tools.
 
 [makesense.ai](https://www.makesense.ai/) provides .json file in VGG styles:
 
@@ -38,7 +38,7 @@ This dataset was created using an RGB camera (FC6310 Camera with CMOS sensor) mo
 
 # Files Description
 
-      - 'Avo-AirDB' folder: contains the 4864x3648 RGB  aerial images. Total images are 986, 
+      - 'Avo-AirDB' folder: contains the 4864x3648 RGB  aerial images. Total images are 984, 
       56 are annotated in .tiff format ,'annotation1' folder,  and 89 are annotated in .json ,'annotation2' folder.
 
       - 'annotation1' folder: contains two folders 'images' and 'masks'

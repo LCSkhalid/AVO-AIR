@@ -59,18 +59,17 @@ Image filenames are defined with an ID number, such as:
 
 If you use this dataset, please cite the following publication:
 
-_K. El Amraoui, M. Lghoul, A. Ezzaki, L.Masmoudi, M.hadri, H.Elbelrhiti and A.Abaz, (2022). Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification. DOI:10.17632/tvhh83r3hj.2_ 
+_K. El Amraoui, M. Lghoul, A. Ezzaki, L.Masmoudi, M.hadri, H.Elbelrhiti and A.Abaz, (2022). Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification. in data in breif journal doi.org/10.1016/j.dib.2022.108738_ 
 
 
             @article{elamraoui2022Avo,
             title={Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification.},
             author={Khalid El Amraoui, Moaataz Lghoul , Ayoub Ezzaki , Lhoussaine Masmoud , Majid hadri , Hicham Elbelrhiti and Aziz Abaz c },
-            journal={},
-            volume={},
-            pages={},
+            journal={Data in Brief},
+            pages={108738},
             year={2022},
-            issn = {},
-            doi = {10.17632/tvhh83r3hj.2},
+            ISSN = {2352-3409},
+            doi = {doi.org/10.1016/j.dib.2022.108738},
             publisher={Elsevier}
             }
             
